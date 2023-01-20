@@ -1,4 +1,4 @@
-# Artificial-intelligence
+# Team Projects
 Machine learning and Deep learning projects
 Data Preparation
 AI Modeling
