@@ -1,4 +1,4 @@
-# Team Projects
+# Project idea
 Machine learning and Deep learning projects
 Data Preparation
 AI Modeling
